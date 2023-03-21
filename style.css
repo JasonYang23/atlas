@@ -1,0 +1,51 @@
+body{
+    background-color: pink;
+  }
+  h1, h2 {
+    color: Blue;
+     
+  }
+  
+  p {
+    color: black;
+    font-weight:bold;
+  }
+  
+  ul {
+    border: 2px solid Black;
+  }
+  
+  ol {
+    border: 2px solid Black;
+  }
+  
+  ol, ul {
+    padding: 5px 20px;
+    border-radius: 4px;
+  }
+  
+  h1, strong{
+    color: Green;
+   
+  }
+  
+  em {
+    color: red;
+    font-size: x-large;
+  }
+  
+  h1,strong{
+    color:red;
+    font-size: 300%;
+    text-decoration-line: underline;
+    
+  }
+  strong{
+    color:Green;
+    font-size:300%;
+  }
+  h2{
+    text-decoration-line: underline;
+  }
+  
+     
